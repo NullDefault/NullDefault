@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm David Nesterov-Rappoport</h1>
-<h3 align="center">I'm a Software Developer from Russia, currently studying at :evergreen_tree:Drew University as a Computer Science & Philosophy Double Major with a Data Science Minor.</h3>
+<h3 align="center">I'm a Software Developer from Russia, currently studying at :evergreen_tree:Drew University as a <br> Computer Science & Philosophy Double Major with a Data Science Minor.</h3>
 
 ---
 
