@@ -11,9 +11,8 @@
 
 - 📫 Reach me at **dnesterovrappop@drew.edu** or **https://www.linkedin.com/in/nulldefault/**
 
----
 ![David's github stats](https://github-readme-stats.vercel.app/api?username=NullDefault&count_private=true&hide=issues,prs&show_icons=true&theme=tokyonight)
----
+
 <p align="center" alt="frontend">
   <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="30" height="30"/>  &nbsp;&nbsp;&nbsp;
   <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="30" height="30"/>  &nbsp;&nbsp;&nbsp;
