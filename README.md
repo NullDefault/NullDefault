@@ -22,15 +22,6 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NullDefault&layout=compact&hide=html" style="float: right"/>
 </p></div>
 
-<div3>
-<img src="https://github.com/NullDefault/personal_website/blob/master/src/static/assets/icons/null-icon.png"
-alt="null icon"
-align="right"
-height=50
-width=50/>
-</div>
-
-
 <p align="center" alt="frontend">
   <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="30" height="30"/>  &nbsp;&nbsp;&nbsp;
   <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="30" height="30"/>  &nbsp;&nbsp;&nbsp;
