@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm David Nesterov-Rappoport</h1>
 <h3 align="center">I'm a Software Developer from Russia, currently studying at :evergreen_tree:Drew University as a Computer Science & Philosophy Double Major with a Data Science Minor.</h3>
 
+---
+
 - 🔭 I’m currently working at **AFreeBird** as a Software Development Intern.
 
 - 🌱 I’m currently learning **React, SQL and Heroku.**
@@ -9,9 +11,17 @@
 
 - 💬 Ask me about **Python, Artifical Intelligence or Systems Science.**
 
-- 📫 Reach me at **dnesterovrappop@drew.edu** or **https://www.linkedin.com/in/nulldefault/**
+- 📫 Reach me at [my email](dnesterovrappop@drew.edu) or [LinkedIn](https://www.linkedin.com/in/nulldefault/).
 
-![David's github stats](https://github-readme-stats.vercel.app/api?username=NullDefault&count_private=true&hide=issues,prs&show_icons=true&theme=tokyonight)
+---
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=NullDefault&count_private=true&hide=issues,prs&show_icons=true&theme=tokyonight" alt="svintit" />
+</p>
+
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NullDefault&layout=compact&hide=html" alt="svintit"
+       style="float: right"/>
+</p>
 
 <p align="center" alt="frontend">
   <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="30" height="30"/>  &nbsp;&nbsp;&nbsp;
@@ -37,5 +47,5 @@
 <img src="https://github.com/NullDefault/personal_website/blob/master/src/static/assets/icons/null-icon.png"
      alt="null icon"
      align="right"
-     height=40
-     width=40/>
+     height=50
+     width=50/>
