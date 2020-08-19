@@ -5,13 +5,13 @@
 
 - 🔭 I’m currently working at **AFreeBird** as a Software Development Intern.
 
-- 🌱 I’m currently learning **React, SQL and Heroku.**
+- 🌱 Currently learning **React, SQL and Heroku.**
 
-- 👯 I’m looking to collaborate on **anything of interest!**
+- 👯 Interested in collaborating on **anything of interest!**
 
 - 💬 Ask me about **Python, Artifical Intelligence or Systems Science.**
 
-- 📫 Reach me at [my email](mailto:dnesterovrappop@drew.edu) or [LinkedIn](https://www.linkedin.com/in/nulldefault/).
+- 📫 Reach out to me at [my email](mailto:dnesterovrappop@drew.edu) or [LinkedIn](https://www.linkedin.com/in/nulldefault/).
 
 ---
 <p align="center">
