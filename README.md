@@ -15,7 +15,7 @@
 
 ---
 <div1><p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=NullDefault&count_private=true&hide=issues,prs&show_icons=true&theme=tokyonight"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=NullDefault&count_private=true&hide=issues,prs&show_icons=true"/>
 </p></div>
 
 <div2><p align="center">
