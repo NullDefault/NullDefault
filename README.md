@@ -32,10 +32,10 @@
 </p>
 <p align="center" alt="backend">
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-plain.svg" alt="python" width="30" height="30"/>  &nbsp;&nbsp;&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" alt="django" width="30" height="30"/>  &nbsp;&nbsp;&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="30" height="30"/>  &nbsp;&nbsp;&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-plain.svg" alt="java" width="30" height="30"/>  &nbsp;&nbsp;&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" alt="c#" width="30" height="30"/>  &nbsp;&nbsp;&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" alt="django" width="30" height="30"/>  &nbsp;&nbsp;&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="30" height="30"/>  &nbsp;&nbsp;&nbsp;
 </p>
 <p align="center" alt="tools">
      <img src="https://github.com/devicons/devicon/blob/master/icons/heroku/heroku-original.svg" alt="heroku" width="30" height="30"/>  &nbsp;&nbsp;&nbsp;
