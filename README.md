@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Python, Artifical Intelligence or Systems Science.**
 
-- 📫 Reach me at [my email](dnesterovrappop@drew.edu) or [LinkedIn](https://www.linkedin.com/in/nulldefault/).
+- 📫 Reach me at [my email](mailto:dnesterovrappop@drew.edu) or [LinkedIn](https://www.linkedin.com/in/nulldefault/).
 
 ---
 <div1><p align="center">
