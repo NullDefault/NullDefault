@@ -12,15 +12,14 @@
 - 💬 Ask me about **Python, Artifical Intelligence or Systems Science.**
 
 - 📫 Reach out to me at [my email](mailto:dnesterovrappop@drew.edu) or [LinkedIn](https://www.linkedin.com/in/nulldefault/).
-
----
-<p align="center">
 <div2>
-<img align="center"
+<img align="right"
      src="https://github-readme-stats.vercel.app/api/top-langs/?username=NullDefault&layout=compact&hide=html" 
      style="display:inline-block;height=128px;"/>
 </div>
 </p>
+
+---
 
 <p align="center" alt="tech">
   <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="30" height="30"/>  &nbsp;&nbsp;&nbsp;
