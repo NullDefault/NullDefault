@@ -15,13 +15,6 @@
 
 ---
 <p align="center">
-<div1>
-<img align="center"
-     src="https://github-readme-stats.vercel.app/api?username=NullDefault&count_private=true&hide=issues&show_icons=true"
-     style="display:inline-block;margin-right:10px;height=128px;"
-     />
-</div>
-
 <div2>
 <img align="center"
      src="https://github-readme-stats.vercel.app/api/top-langs/?username=NullDefault&layout=compact&hide=html" 
