@@ -3,7 +3,7 @@
 
 ---
 
-- 🔭 I’m currently working at **AFreeBird** as a Software Development Intern.
+- 🔭 I’m currently in my Junior Year, working part time as a **Logic and Programming Tutor**.
 
 - 🌱 Currently learning **React, SQL and Heroku.**
 
