@@ -12,12 +12,6 @@
 - 💬 Ask me about **Python, Artifical Intelligence or Systems Science.**
 
 - 📫 Reach out to me at [my email](mailto:dnesterovrappop@drew.edu) or [LinkedIn](https://www.linkedin.com/in/nulldefault/).
-<div2>
-<img align="left"
-     src="https://github-readme-stats.vercel.app/api/top-langs/?username=NullDefault&layout=compact&hide=html" 
-     style="display:inline-block;height=128px;"/>
-</div>
-</p>
 
 ---
 
