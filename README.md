@@ -9,7 +9,7 @@
 
 - 👯 Interested in collaborating on **anything of interest!**
 
-- 💬 Ask me about **Python, Artifical Intelligence or Systems Science.**
+- 💬 Ask me about **Systems Science, Python or Artificial Intelligence.**
 
 - 📫 Reach out to me at [my email](mailto:dnesterovrappop@drew.edu) or [LinkedIn](https://www.linkedin.com/in/nulldefault/).
 
