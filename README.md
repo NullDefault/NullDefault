@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently in my Junior Year, working part time as a **Logic and Programming Tutor**.
 
-- 🌱 Currently learning **React, SQL and GoLang.**
+- 🌱 Currently learning **Next.js, SQL and GoLang.**
 
 - 👯 Interested in collaborating on **anything of interest!**
 
