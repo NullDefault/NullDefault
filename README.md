@@ -14,9 +14,10 @@
 - 📫 Reach out to me at [my email](mailto:dnesterovrappop@drew.edu) or [LinkedIn](https://www.linkedin.com/in/nulldefault/).
 
 ---
-<div2>
+<div style="display: flex; justify-content: center; align-items: center;>
+     
 <img
-     src="https://github-readme-stats.vercel.app/api/top-langs/?username=NullDefault&hide=html" 
-     style="display:inline-block;height=128px;"/>
+     src="https://github-readme-stats.vercel.app/api/top-langs/?username=NullDefault&hide=html&layout=compact"/>
+<img
+     src="https://github-readme-stats.vercel.app/api?username=NullDefault&show_icons=true"/>
 </div>
-</p>
