@@ -16,4 +16,4 @@
 ---
 
 ![my github stats](https://my-stats.nulldefault.vercel.app/api?username=NullDefault&show_icons=true)
-![my wakatime stats](https://my-stats.nulldefault.vercel.app/api/wakatime?username=willianrod)
+![my wakatime stats](https://my-stats.nulldefault.vercel.app/api/wakatime?username=willianrod&layout=compact)
