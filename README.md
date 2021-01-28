@@ -14,9 +14,6 @@
 - 📫 Reach out to me at [my email](mailto:dnesterovrappop@drew.edu) or [LinkedIn](https://www.linkedin.com/in/nulldefault/).
 
 ---
-<div style="display: flex; justify-content: center; align-items: center;width: 100%;margin: 0 auto;">
-<img style="display: inline-block;"
-     src="https://my-stats.nulldefault.vercel.app/api/top-langs/?username=NullDefault&layout=compact"/>
-<img style="display: inline-block;"
-     src="https://my-stats.nulldefault.vercel.app/api?username=NullDefault&show_icons=true"/>
-</div>
+
+![my github stats](https://my-stats.nulldefault.vercel.app/api?username=NullDefault&show_icons=true)
+![my wakatime stats](https://my-stats.nulldefault.vercel.app/api/wakatime?username=willianrod)
