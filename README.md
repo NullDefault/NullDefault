@@ -15,9 +15,8 @@
 
 ---
 <div style="display: flex; justify-content: center; align-items: center;width: 100%;margin: 0 auto;">
-     
 <img style="display: inline-block;"
-     src="https://github-readme-stats.vercel.app/api/top-langs/?username=NullDefault&hide=html&layout=compact"/>
+     src="https://my-stats.nulldefault.vercel.app/api/top-langs/?username=NullDefault&layout=compact"/>
 <img style="display: inline-block;"
-     src="https://github-readme-stats.vercel.app/api?username=NullDefault&show_icons=true"/>
+     src="https://my-stats.nulldefault.vercel.app/api?username=NullDefault&show_icons=true"/>
 </div>
