@@ -18,5 +18,5 @@
   <img src="https://my-stats.nulldefault.vercel.app/api?username=NullDefault&show_icons=true" />
 </p>
 <p align="center">
-  <img src="https://my-stats.nulldefault.vercel.app/api/wakatime?username=willianrod&layout=compact" />
+  <img src="https://my-stats.nulldefault.vercel.app/api/wakatime?username=NullDefault&layout=compact" />
 </p>
