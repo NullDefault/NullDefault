@@ -18,5 +18,5 @@
   <img src="https://github-readme-stats.vercel.app/api?username=NullDefault&show_icons=true" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=NullDefault&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=NullDefault&show_icons=true" />
 </p>
