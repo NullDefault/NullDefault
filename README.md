@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently in my Junior Year, working part time as a **Logic and Programming Tutor**.
 
-- 🌱 Currently learning **Next.js, Chakra UI and GoLang.**
+- 🌱 Currently learning **Relational Modeling, Metalogic and TailwindCSS.**
 
 - 👯 Interested in collaborating on **anything of interest!**
 
