@@ -3,9 +3,9 @@
 
 ---
 
-- 🌱 I’m currently in my Junior Year, working part time as a **Logic and Programming Tutor**.
+- 🌱 I’m currently a rising Senior, working full time as an **Undergraduate Researcher**.
 
-- 🔭 Currently researching **Multi-Agent Reinforcement Learning.**
+- 🔭 Right now I am researching **Multi-Agent Reinforcement Learning.**
 
 - 👯 Interested in collaborating on **anything of interest!**
 
