@@ -3,9 +3,9 @@
 
 ---
 
-- 🔭 I’m currently in my Junior Year, working part time as a **Logic and Programming Tutor**.
+- 🌱 I’m currently in my Junior Year, working part time as a **Logic and Programming Tutor**.
 
-- 🌱 Currently learning **Relational Modeling, Metalogic and TailwindCSS.**
+- 🔭 Currently researching **Multi-Agent Reinforcement Learning.**
 
 - 👯 Interested in collaborating on **anything of interest!**
 
@@ -14,9 +14,6 @@
 - 📫 Reach out to me at [my email](mailto:dnesterovrappop@drew.edu) or [LinkedIn](https://www.linkedin.com/in/nulldefault/).
 
 ---
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NullDefault&show_icons=true" />
-</p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=NullDefault&show_icons=true" />
 </p>
