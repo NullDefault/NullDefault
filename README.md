@@ -7,7 +7,7 @@
 
 - 🔭 Right now I am researching **Multi-Agent Reinforcement Learning.**
 
-- 👯 Interested in collaborating on **anything of interest!**
+- 👯 Interested in collaborating on **small scale web applications and RL experiments!**
 
 - 💬 Ask me about **Systems Science, Python or Artificial Intelligence.**
 
